@@ -1,0 +1,1 @@
+Javascript kaam nhi karra

@@ -70,6 +70,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out for any questions or feedback!
 
-- **Name**: Aadish Jagde
+- **Name**: Aadish Abhijeet Jagde
 - **GitHub**: [@aadishJagde](https://github.com/aadishJagde)
+
+Thanks to Wvishalkumarojha for guidenace
 

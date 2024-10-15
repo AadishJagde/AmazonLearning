@@ -9,7 +9,6 @@ Welcome to the **Amazon Frontend Clone** project! This is a replica of the Amazo
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)

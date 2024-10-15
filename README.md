@@ -53,14 +53,6 @@ No additional dependencies are required.
 
 Simply open the `index.html` file in a web browser to explore the project. You can navigate through the homepage, interact with sliders, hover over menus, and see how the responsive design works across various devices.
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop View](link_to_desktop_screenshot)
-
-### Mobile View
-![Mobile View](link_to_mobile_screenshot)
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to add features, improve the design, or fix bugs, feel free to fork the repository and create a pull request.
